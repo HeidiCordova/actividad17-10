@@ -24,7 +24,7 @@
 
     <Button
         android:id="@+id/button2"
-        android:layout_width="0dp"
+        android:layout_width="411dp"
         android:layout_height="149dp"
         android:background="@drawable/rectangular_button"
         android:text="Boton grande"
